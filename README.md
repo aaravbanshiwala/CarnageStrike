@@ -1,4 +1,4 @@
-# CarnageStrike
+# Carnage Strike
 
 A stealth-focused Minecraft backdoor-style research plugin for Paper/Spigot **1.21+**, designed strictly for developers, security researchers, and penetration testers who need a private hidden command layer inside a controlled server environment.
 
