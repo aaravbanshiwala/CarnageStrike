@@ -1,0 +1,5 @@
+name: CarnageStrike
+version: 1.0
+main: dev.vintage.CarnageStrike
+api-version: 1.21
+author: vintage
